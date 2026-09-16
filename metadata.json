@@ -1,0 +1,6 @@
+{
+  "name": "mediasmm",
+  "description": "The #1 Main SMM Panel & Social Media Growth Reseller Platform to boost all social media accounts with instant automated delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
